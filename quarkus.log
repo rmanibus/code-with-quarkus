@@ -1,0 +1,6 @@
+2021-05-26 17:11:27,447 loic-xps-15-9570 code-with-quarkus-1.0.0-SNAPSHOT-runner.jar[234958] INFO  [io.quarkus] (main) code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 1.13.4.Final) started in 0.624s. Listening on: http://0.0.0.0:8080
+2021-05-26 17:11:27,463 loic-xps-15-9570 code-with-quarkus-1.0.0-SNAPSHOT-runner.jar[234958] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-05-26 17:11:27,464 loic-xps-15-9570 code-with-quarkus-1.0.0-SNAPSHOT-runner.jar[234958] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, scheduler]
+2021-05-26 17:11:28,005 loic-xps-15-9570 code-with-quarkus-1.0.0-SNAPSHOT-runner.jar[234958] INFO  [org.acm.NoizeGenerator] (executor-thread-1) noize
+2021-05-26 17:11:29,003 loic-xps-15-9570 code-with-quarkus-1.0.0-SNAPSHOT-runner.jar[234958] INFO  [org.acm.NoizeGenerator] (executor-thread-1) noize
+2021-05-26 17:11:29,410 loic-xps-15-9570 code-with-quarkus-1.0.0-SNAPSHOT-runner.jar[234958] INFO  [io.quarkus] (Shutdown thread) code-with-quarkus stopped in 0.068s
